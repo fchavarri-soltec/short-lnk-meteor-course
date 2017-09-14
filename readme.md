@@ -1,7 +1,7 @@
-Short lnk
+# Short lnk
 
 This is a link shortener built on Meteor and React.
 
-Authors
+## Authors
 
 Felipe Chavarri
